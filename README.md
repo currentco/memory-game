@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Idea behind the project](#idea)
 * [Contributing](#contributing)
 
-## Instructions
+## Idea behind the project
 
 The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
@@ -15,6 +15,4 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+This repository is a practise project for my Udacity nanodegree program. Therefore, I can't accept pull requests.

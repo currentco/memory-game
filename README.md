@@ -1,4 +1,4 @@
-# Memory Game Project
+# Memory Game
 
 This is a card game that helps to train your memory. The game is suitable for kids over 3 years old.
 

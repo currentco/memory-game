@@ -1,16 +1,25 @@
 # Memory Game Project
 
+This is a card game that helps to train your memory. The game is suitable for kids over 3 years old.
+
 ## Table of Contents
 
-* [Idea behind the project](#idea)
+* [Object of the game](#object)
 * [Functionalities of the game](#functionalities)
+* [Dependencies](#dependencies)
 * [Contributing](#contributing)
 
 
-## Idea behind the project
+## Object of the game
 
-I converted a static version of the Memory Game to an interactive one by modifying the given HTML, CSS and JS files.
+To turn over pairs of matching cards in the least amount of moves and time until all the cards have been matched.
 
+## How to play
+
+- Open <a href="">the Memory Game</a> in your browser.
+- Click two cards to display them.
+- Try to memorize the images of the cards opened.
+- Keep clicking two cards open to find a pair that matches.
 
 ## Functionalities of the game
 
@@ -38,6 +47,9 @@ Move Counter
 
 - Game displays the current number of moves a user has made.
 
+## Dependencies
+
+- <a href="https://fontawesome.com/">Font Awesome</a> - Icons used
 
 ## Contributing
 

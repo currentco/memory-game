@@ -4,24 +4,24 @@ This is a card game that helps to train your memory. The game is suitable for ki
 
 ## Table of Contents
 
-* [Object of the game](#object)
-* [Functionalities of the game](#functionalities)
+* [Object](#object)
+* [Instructions](#instructions)
+* [Functionalities](#functionalities)
 * [Dependencies](#dependencies)
 * [Contributing](#contributing)
 
+## Object
 
-## Object of the game
+To find all the pairs of matching cards in the least amount of moves and time. 
 
-To turn over pairs of matching cards in the least amount of moves and time until all the cards have been matched.
+## Instructions
 
-## How to play
-
-- Open the <a href="">Memory Game</a> in your browser.
+- Open the <a href="https://currentco.github.io/memory-game/">Memory Game</a> in your browser.
 - Click two cards to display them.
 - Try to memorize the images of the cards opened.
-- Keep clicking two cards open to find a pair that matches.
+- Keep clicking a pair of cards open to find a pair that matches until all the cards have been matched.
 
-## Functionalities of the game
+## Functionalities
 
 Memory Game Logic
 
@@ -50,6 +50,7 @@ Move Counter
 ## Dependencies
 
 - <a href="https://fontawesome.com/">Font Awesome</a> - Icons used
+- <a href="https://fonts.google.com/">Google Fonts</a> - Fonts used
 
 ## Contributing
 

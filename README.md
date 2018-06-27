@@ -9,7 +9,7 @@
 
 ## Idea behind the project
 
-I have converted a static version of the Memory Game project to an interactive one by modifying the given HTML, CSS and JS files.
+I converted a static version of the Memory Game to an interactive one by modifying the given HTML, CSS and JS files.
 
 
 ## Functionalities of the game

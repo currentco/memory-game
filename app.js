@@ -91,13 +91,13 @@ function startGame() {
 
     // reset star rating
     for (let i = 0; i < stars.length; i++) {
-        starsList[i].style.visibility = "visible";
+        stars[i].style.visibility = "visible";
         stars[i].classList.remove("starsLeft");
     }
 
    //reset timer
-    timer.innerHTML = "0 mins 0 secs";
     clearInterval(interval);
+    timer.innerHTML = "0 mins 0 secs";
 };
 
 document.onload = startGame();
@@ -244,12 +244,14 @@ function finished() {
 //close icon on modal
 function closeModal() {
     modal.classList.remove("show");
+    timer.innerHTML = "0 mins 0 secs";
     startGame();
 };
 
 //for player to play Again 
 function playAgain(){
     modal.classList.remove("show");
+    timer.innerHTML = "0 mins 0 secs";
     startGame();
 }
 

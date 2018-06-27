@@ -16,7 +16,7 @@ To turn over pairs of matching cards in the least amount of moves and time until
 
 ## How to play
 
-- Open <a href="">the Memory Game</a> in your browser.
+- Open the <a href="">Memory Game</a> in your browser.
 - Click two cards to display them.
 - Try to memorize the images of the cards opened.
 - Keep clicking two cards open to find a pair that matches.
